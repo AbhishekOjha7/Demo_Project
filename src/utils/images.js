@@ -1,0 +1,19 @@
+export const images={
+    home:require('../assets/images/home.png'),
+    homeactive:require('../assets/images/home-active.png'),
+    category:require('../assets/images/categories.png'),
+    categoryactive:require('../assets/images/categories-active.png'),
+    influencer:require('../assets/images/influencer-star.png'),
+    influencersuper:require('../assets/images/influencer-super-star.png'),
+    wishlist:require('../assets/images/wishlist.png'),
+    wishlistactive:require('../assets/images/wishlist-active.png'),
+    account:require('../assets/images/account.png'),
+    accountactive:require('../assets/images/account-active.png'),
+    logo:require('../assets/images/logo.png'),
+    bellring:require('../assets/images/bell-ring.png'),
+    bag:require('../assets/images/bag.png'),
+    search:require('../assets/images/search.png'),
+    microphone:require('../assets/images/microphone.png'),
+    footwear:require('../assets/images/footwear.png'),
+    brand:require('../assets/images/tag.png')
+}
